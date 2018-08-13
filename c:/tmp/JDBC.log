@@ -1,0 +1,43 @@
+[2018/07/20 17:50:10,921]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:244)] -Receive arg=[jdbc:xcloud:@172.16.62.241:6099/DB_POC]
+[2018/07/20 17:50:10,928]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:254)] ------- Connect info ------
+[2018/07/20 17:50:10,932]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:261)] -ip      =172.16.62.241
+[2018/07/20 17:50:10,932]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:262)] -port    =6099
+[2018/07/20 17:50:10,933]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:263)] -dbName  =DB_POC
+[2018/07/20 17:50:10,933]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:264)] ----------------------------
+[2018/07/20 17:50:10,933]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:269)] -Connect Retry   =3
+[2018/07/20 17:50:10,933]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:270)] -Socket Time Out =3600000(mesc)
+[2018/07/20 17:50:10,934]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:271)] -Connect Direct  =true
+[2018/07/20 17:50:10,934]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:272)] -Buffer memory   =4194304
+[2018/07/20 17:50:10,934]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:273)] -Client Load Block Size =4194304
+[2018/07/20 17:50:10,934]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:274)] ----------------------------
+[2018/07/20 17:50:10,984]-[WARN]-[com.bonc.xcloud.component.ServiceManager.ConnectServer(ServiceManager.java:209)] -Connection: ip=[172.16.62.241] port=[6099] dbName=[DB_POC]
+[2018/07/20 17:51:51,571]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:244)] -Receive arg=[jdbc:xcloud:@172.16.62.241:6099/DB_POC]
+[2018/07/20 17:51:51,576]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:254)] ------- Connect info ------
+[2018/07/20 17:51:51,579]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:261)] -ip      =172.16.62.241
+[2018/07/20 17:51:51,579]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:262)] -port    =6099
+[2018/07/20 17:51:51,579]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:263)] -dbName  =DB_POC
+[2018/07/20 17:51:51,579]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:264)] ----------------------------
+[2018/07/20 17:51:51,580]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:269)] -Connect Retry   =3
+[2018/07/20 17:51:51,580]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:270)] -Socket Time Out =3600000(mesc)
+[2018/07/20 17:51:51,580]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:271)] -Connect Direct  =true
+[2018/07/20 17:51:51,580]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:272)] -Buffer memory   =4194304
+[2018/07/20 17:51:51,580]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:273)] -Client Load Block Size =4194304
+[2018/07/20 17:51:51,580]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:274)] ----------------------------
+[2018/07/20 17:51:51,605]-[WARN]-[com.bonc.xcloud.component.ServiceManager.ConnectServer(ServiceManager.java:209)] -Connection: ip=[172.16.62.241] port=[6099] dbName=[DB_POC]
+[2018/07/20 17:52:22,123]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:244)] -Receive arg=[jdbc:xcloud:@172.16.62.241:6099/DB_POC]
+[2018/07/20 17:52:22,130]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:254)] ------- Connect info ------
+[2018/07/20 17:52:22,133]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:261)] -ip      =172.16.62.241
+[2018/07/20 17:52:22,133]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:262)] -port    =6099
+[2018/07/20 17:52:22,133]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:263)] -dbName  =DB_POC
+[2018/07/20 17:52:22,134]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:264)] ----------------------------
+[2018/07/20 17:52:22,134]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:269)] -Connect Retry   =3
+[2018/07/20 17:52:22,134]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:270)] -Socket Time Out =3600000(mesc)
+[2018/07/20 17:52:22,134]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:271)] -Connect Direct  =true
+[2018/07/20 17:52:22,135]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:272)] -Buffer memory   =4194304
+[2018/07/20 17:52:22,135]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:273)] -Client Load Block Size =4194304
+[2018/07/20 17:52:22,135]-[WARN]-[com.bonc.xcloud.jdbc.XCloudDriver.connect(XCloudDriver.java:274)] ----------------------------
+[2018/07/20 17:52:22,218]-[WARN]-[com.bonc.xcloud.component.ServiceManager.ConnectServer(ServiceManager.java:209)] -Connection: ip=[172.16.62.241] port=[6099] dbName=[DB_POC]
+[2018/07/20 17:52:22,243]-[WARN]-[com.bonc.xcloud.component.ServiceManager.login_new(ServiceManager.java:444)] -[Execute Thrift API] --login_new
+[2018/07/20 17:52:22,277]-[WARN]-[com.bonc.xcloud.component.ServiceManager.getDBMeta(ServiceManager.java:504)] -[Execute Thrift API] --getDBMeta
+[2018/07/20 17:52:22,298]-[WARN]-[com.bonc.xcloud.component.ServiceManager.logout(ServiceManager.java:464)] -[Execute Thrift API] --logout
+[2018/07/20 17:52:22,305]-[WARN]-[com.bonc.xcloud.component.ServiceManager.Disconnect(ServiceManager.java:231)] -[Execute Thrift API] --Disconnect
